@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "nome": "Homem de Ferro",
+    "poder": "Armadura de alta tecnologia e intelecto genial",
+    "universo": "Marvel",
+    "ativo": true
+  },
+  {
+    "id": 3,
+    "nome": "Tempestade",
+    "poder": "Manipulação climática e controle elemental",
+    "universo": "Marvel",
+    "ativo": false
+  },
+  {
+    "id": 4,
+    "nome": "Homem Aranha",
+    "poder": "Soltar teias",
+    "universo": "Marvel",
+    "ativo": true
+  },
+  {
+    "id": 5,
+    "nome": "Arqueiro Verde",
+    "poder": "Flechas de raio",
+    "universo": "DC",
+    "ativo": true
+  },
+  {
+    "id": 6,
+    "nome": "Cavaleiro da Lua",
+    "poder": "Ampliado e ativado pela lua",
+    "universo": "Marvel",
+    "ativo": true
+  },
+  {
+    "id": 7,
+    "nome": "Saitama",
+    "poder": "1 soco fatal",
+    "universo": "Anime",
+    "ativo": true
+  },
+  {
+    "id": 8,
+    "nome": "Monkey D. Luffy",
+    "poder": "Elasticidade",
+    "universo": "Anime",
+    "ativo": true
+  },
+  {
+    "id": 9,
+    "nome": "Naruto",
+    "poder": "Clones das Sombras",
+    "universo": "Anime",
+    "ativo": true
+  },
+  {
+    "id": 10,
+    "nome": "Tinky-Winky Teletubbies",
+    "poder": "Bolsa Vermelha",
+    "universo": "TV Globinho",
+    "ativo": true
+  }
+]
